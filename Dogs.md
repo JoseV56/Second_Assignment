@@ -6,6 +6,8 @@ The domestic dog (Canis familiaris or Canis lupus familiaris) is a domesticated 
 
 The dog has been selectively bred over millennia for various behaviors, sensory capabilities, and physical attributes. Dog breeds vary widely in shape, size, and color. They perform many roles for humans, such as hunting, herding, pulling loads, protection, assisting police and the military, companionship, therapy, and aiding disabled people. This influence on human society has given them the sobriquet of "man's best friend."
 
+![Dog](https://ggsc.s3.amazonaws.com/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner.jpg)
+
 ## References
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Dog)
